@@ -9,10 +9,10 @@ export default function Home() {
         alt="Imagem"
         fill
         priority
-        className="absolute inset-0 z-0 object-contain"
+        className="object-contain"
       />
 
-      <div className="absolute inset-0 z-10 flex items-center justify-center bg-black/50">
+      <div className="absolute inset-0 flex items-center justify-center bg-black/50">
         <h1 className="text-7xl font-bold text-white">FODA-SE!!!</h1>
       </div>
     </main>
