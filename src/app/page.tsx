@@ -13,8 +13,8 @@ export default function Home() {
       />
 
       <div className="absolute inset-0 flex items-center justify-center bg-black/50">
-        <h1 className="text-7xl font-bold text-white">
-          FODA-SE TUA OPINIÂO!!!
+        <h1 className="text-7xl font-bold text-white text-center">
+          FODA-SE TUA OPINIÃO!!!
         </h1>
       </div>
     </main>
